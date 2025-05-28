@@ -1,0 +1,9 @@
+Fazendo: Cadastro de Produtos
+
+
+
+Quando um cliente faz uma compra, tem que ser descontado do estoque de produtos e tem que ser registrada uma venda em algum local
+
+
+
+
